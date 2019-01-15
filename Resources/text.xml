@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+<key>error</key>
+<string>请保证网络连接</string>
+<key>welcome</key>
+<string>欢迎用户</string>
+<key>newUser</key>
+<string>欢迎新用户</string>
+<key>GameName</key>
+<string>保卫萝卜</string>
+<key>paly</key>
+<string>准备好了吗？</string>
+<key>BestGrade</key>
+<string>你最好的成绩：</string>
+<key>NewGrade</key>
+<string>当前没有成绩</string>
+</dict>
